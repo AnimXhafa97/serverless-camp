@@ -12,4 +12,4 @@ let convertedResult = Buffer.from(parts[0].data).toString('base64')
     context.res = {
         body: convertedResult
     }
-}
+} 
