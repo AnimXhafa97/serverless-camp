@@ -8,10 +8,9 @@
   },
   "dependencies": {
     "morse-code-converter": "^1.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "parse-multipart": "^1.0.4"
   },
-  "devDependencies": {},
   "main": "index.js",
   "repository": {
     "type": "git",
